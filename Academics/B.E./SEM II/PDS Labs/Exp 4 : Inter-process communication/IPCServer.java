@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class IPServer
+public class IPCServer
 {
      public static void main(String[] args)
      {
@@ -13,8 +13,8 @@ public class IPServer
                ServerSocket ss = new ServerSocket(1200); // on port number 1200
                Socket clientSocket = ss.accept();
                System.out.println("\n Client is connected with IP address"+clientSocket.getInetAddress() + " nd port number "+clientSocket.getPort());
-               dataOutputStream dos = new DataOutputStream(clientSocket.getOutputStream());
-               DataInputStream dis = new dataInputStream(clientSocket.getInputStream());
+               DataOutputStream dos = new DataOutputStream(clientSocket.getOutputStream());
+               DataInputStream dis = new DataInputStream(clientSocket.getInputStream());
                int a = dis.readInt();
                System.out.println("\n SERVER RECEIVED");
                System.out.println("\n Number 1 -> "+a);
