@@ -56,8 +56,8 @@ The Java IDL Development Process and the Hello World Application
                
      3. Run the client application:
 
-          java HelloClient -ORBInitialPort 1050 -ORBInitialHost localhost
+               java HelloClient -ORBInitialPort 1050 -ORBInitialHost localhost
 
      4. The client prints the string from the server to the command line:
 
-          Hello world!!
+               Hello world!!

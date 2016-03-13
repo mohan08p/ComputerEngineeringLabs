@@ -21,13 +21,15 @@ How to write the IDL interface and translates it into Java with following steps 
 Mapping 
 
 With an interface this simple, it is easy to see how the IDL statements map to the generated Java statements.
-IDL Statement 	      	     Java Statement
-module HelloApp 	      	package HelloApp;
-interface Hello 	      	public interface Hello
+
+IDL Statement 	      	        Java Statement
+module HelloApp; 	    --   	   package HelloApp;
+interface Hello 	    --   	   public interface Hello
 
 Because there are only two operations defined in this interface, it is easy to see how the IDL statements map to the generated Java statements.
-IDL Statement 	      	     Java Statement
-string sayHello(); 	      	String sayHello();
-oneway void shutdown(); 	     void Shutdown ();
+
+IDL Statement 	      	        Java Statement
+string sayHello(); 	    --       String sayHello();
+oneway void shutdown(); --       void Shutdown ();
 
 4. Understanding the idlj Compiler Output
