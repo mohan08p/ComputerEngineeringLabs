@@ -6,5 +6,5 @@ Here, in this program we have shown the simple implementation of load balancing 
 
 ### [Static Load Balancing](https://github.com/mohan08p/ComputerEngineeringLabs/blob/master/Academics/B.E./SEM%20II/PDS%20Labs/Exp%201%20:%20Load%20Balancing%20Algorithm/static-load-balancing.png)
 
-<img src="https://github.com/mohan08p/ComputerEngineeringLabs/blob/master/Academics/B.E./SEM%20II/PDS%20Labs/Exp%201%20:%20Load%20Balancing%20Algorithm/static-load-balancing.png title="static">
+![static-load-balancing](./static-load-balancing.png)
 
