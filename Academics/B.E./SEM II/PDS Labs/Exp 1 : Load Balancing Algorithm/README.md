@@ -6,12 +6,10 @@ Here, in this program we have shown the simple implementation of load balancing 
 
 ### [Static Load Balancing](https://github.com/mohan08p/ComputerEngineeringLabs/blob/master/Academics/B.E./SEM%20II/PDS%20Labs/Exp%201%20:%20Load%20Balancing%20Algorithm/static-load-balancing.png)
 
-static-load-balancing
 ![static-load-balancing](./static-load-balancing.png)
 
 ### [Dynamic Load Balancing](https://github.com/mohan08p/ComputerEngineeringLabs/blob/master/Academics/B.E./SEM%20II/PDS%20Labs/Exp%201%20:%20Load%20Balancing%20Algorithm/dynamic-load-balancing.png)
 
-dynamic-load-balancing
 ![dynamic-load-balancing](./dynamic-load-balancing.png)
 
 
