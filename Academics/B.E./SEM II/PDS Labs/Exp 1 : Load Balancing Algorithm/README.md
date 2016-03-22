@@ -6,5 +6,5 @@ Here, in this program we have shown the simple implementation of load balancing 
 
 ### [Static Load Balancing](https://codio.com/mohan08p/computerengineeringlabs/tree/Academics%2FB.E.%2FSEM%20II%2FPDS%20Labs%2FExp%201%20%3A%20Load%20Balancing%20Algorithm%2Fstatic-load-balancing.png)
 
-<img src="https://codio.com/mohan08p/computerengineeringlabs/tree/Academics%2FB.E.%2FSEM%20II%2FPDS%20Labs%2FExp%201%20%3A%20Load%20Balancing%20Algorithm%2Fstatic-load-balancing.png title="static">
+static-load-balancing
 
