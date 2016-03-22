@@ -4,7 +4,7 @@ It distributes workloads across multiple computing resources such as, computers,
 
 Here, in this program we have shown the simple implementation of load balancing server where the processing load tries to distribute it equally onto the different nodes based on two parameters, cpu and Processors. And we can tell the user to add or remove these resources and it will dynamically adjust the load onto the nodes, respectively.
 
-### [Static Load Balancing](https://codio.com/mohan08p/computerengineeringlabs/tree/Academics%2FB.E.%2FSEM%20II%2FPDS%20Labs%2FExp%201%20%3A%20Load%20Balancing%20Algorithm%2Fstatic-load-balancing.png)
+### [Static Load Balancing](https://github.com/mohan08p/ComputerEngineeringLabs/blob/master/Academics/B.E./SEM%20II/PDS%20Labs/Exp%201%20:%20Load%20Balancing%20Algorithm/static-load-balancing.png)
 
-<img src="https://codio.com/mohan08p/computerengineeringlabs/tree/Academics%2FB.E.%2FSEM%20II%2FPDS%20Labs%2FExp%201%20%3A%20Load%20Balancing%20Algorithm%2Fstatic-load-balancing.png title="static">
+<img src="https://github.com/mohan08p/ComputerEngineeringLabs/blob/master/Academics/B.E./SEM%20II/PDS%20Labs/Exp%201%20:%20Load%20Balancing%20Algorithm/static-load-balancing.png title="static">
 
