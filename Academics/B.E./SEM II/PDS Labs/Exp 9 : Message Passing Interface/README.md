@@ -9,6 +9,7 @@ The Message Passing Interface (MPI) is an evolving de-facto standard for support
 The MPI (Message Passing Interface) is a language-independent communications protocol used to program parallel computers. It allows many computers to communicate with one another. It is used in computer clusters.
 
 Steps to Write MPI Application in Windows
+
 1) Download
           Download MS-MPI SDK and Redist installers and install them. The download link can be found at our homepage
           https://msdn.microsoft.com/en-us/library/bb524831.aspx
@@ -34,5 +35,8 @@ Steps to Write MPI Application in Windows
 
 ![Program](./Images/Code.png)
 
-8)  Test run the program using `mpiexec` command on the command-line
+8)  Test run the program using `mpiexec` command on the command-line.
 
+#####Message Passing Interface (MPI) is widely accepted specifications for managing messaging in high performance clusters. Programs written to MPI are portable across platforms and across various implementations of MPI without the need to rewrit source code. 
+
+#####MPI provides a portable and powerful inter-process communication mechanism that simplifies some of the complexities of communication between hundreds or even thousands of processors working in parallel. 
