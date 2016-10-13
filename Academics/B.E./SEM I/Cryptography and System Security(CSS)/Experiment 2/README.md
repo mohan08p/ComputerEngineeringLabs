@@ -45,7 +45,7 @@ Ways to Avoid Phishing:
 
           Try to upset you into acting quickly by threatening you with frightening information. 
 
-
+###![Figure 1](https://github.com/mohan08p/ComputerEngineeringLabs/blob/master/Academics/B.E./SEM%20I/Cryptography%20and%20System%20Security(CSS)/Experiment%202/Untitled.png)
 
 Figure 1
 
@@ -57,14 +57,14 @@ Figure 1
           Also, beware of phone phishing schemes. Do not divulge personal information over the phone unless you  
           initiate the call. Be cautious of emails that ask you to call a phone number to update your account
           information as well. 
-
-
+          
+###![Figure 2](https://github.com/mohan08p/ComputerEngineeringLabs/blob/master/Academics/B.E./SEM%20I/Cryptography%20and%20System%20Security(CSS)/Experiment%202/Untitled1.png)
 
 Figure 2
 
 3. Do not click on links, download files or open attachments in emails from unknown senders. It is best to open attachments only when you are expecting them and know what they contain, even if you know the sender. 
 
-
+###![Figure 3](https://github.com/mohan08p/ComputerEngineeringLabs/blob/master/Academics/B.E./SEM%20I/Cryptography%20and%20System%20Security(CSS)/Experiment%202/Untitled2.png)
 
 Figure 3
 
@@ -72,8 +72,7 @@ Figure 3
 
           You never know who may gain access to your email account, or to the person’s account to whom you are
           emailing. 
-
-
+###![Figure 4](https://github.com/mohan08p/ComputerEngineeringLabs/blob/master/Academics/B.E./SEM%20I/Cryptography%20and%20System%20Security(CSS)/Experiment%202/Untitled3.png)
 
 Figure 4
 
@@ -88,8 +87,7 @@ Figure 4
           Do not copy web addresses into your browser from pop-ups. 
 
           Legitimate enterprises should never ask you to submit personal information in pop-up screens, so don’t do it. 
-
-
+###![Figure 5]()https://github.com/mohan08p/ComputerEngineeringLabs/blob/master/Academics/B.E./SEM%20I/Cryptography%20and%20System%20Security(CSS)/Experiment%202/Untitled4.png
 
 Figure 5
 
