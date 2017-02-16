@@ -16,9 +16,12 @@ Steps to install & configure the MPI(For Stand-alone machine),
 	     **make; sudo make all**
      
 5. Before compiling the program you need to download some library into your workspace, as given in the steps,
-          **sudo apt-get install lam4-dev
-          sudo apt-get install libmpich-dev
-          sudo apt-get install libopenmpi-dev**
+          
+		  sudo apt-get install lam4-dev
+          
+	  	  sudo apt-get install libmpich-dev
+          
+	  	  sudo apt-get install libopenmpi-dev
 
 
 Then we can start executing our **MPI program on gcc compiler**.
