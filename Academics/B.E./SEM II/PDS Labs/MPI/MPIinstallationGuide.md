@@ -4,7 +4,7 @@ Steps to install & configure the MPI(For Stand-alone machine),
      http://www.mpich.org/downloads/
 
 2. **Extract** the tar with command, 
-	     **tar xvf mpich-3.2.tar.gz**
+	     **tar -xvf mpich-3.2.tar.gz**
    And, go into the directory /mpich-3.2
 
 
