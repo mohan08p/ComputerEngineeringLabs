@@ -1,4 +1,4 @@
-Exp 8 : Clock Synchronization algorithms
+## Exp 8 : Clock Synchronization algorithms
 
 Program to demonstrate Berkeley Clock Synchronization algorithm 
 
