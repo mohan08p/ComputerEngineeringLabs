@@ -9,7 +9,7 @@ Clock synchronization deals with understanding the temporal ordering of events p
 In a Distributed System, the problem takes on more complexity because the global time is not easily known. Most of the Clock Synchronization Solutions on the internet is the Network Time Protocol(NTP) which is a layered client-server architecture based on UDP message passing. Lamport timestamps and Vector clocks are concepts of the logical clocks in a distributed system.
 
 
-Berkeley's Algorithm
+## Berkeley's Algorithm
 
 The Berkeley's Algorithm, does not assume that any machine has an accurate time source with which to synchronize. Instead, it opts for obtaining an average time from participating computers and synchronizing all machines to that average.
 
