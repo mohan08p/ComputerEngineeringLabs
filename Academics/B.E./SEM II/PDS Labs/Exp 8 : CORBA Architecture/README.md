@@ -30,6 +30,7 @@ The Java IDL Development Process and the Hello World Application
     - Creating HelloClient.java
     - Understanding HelloClient.java
     - Compiling HelloClient.java
+          
           javac HelloClient.java HelloApp/*.java
     
 5. Start the applications(To run this client-server application on your development machine):
